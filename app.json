@@ -1,0 +1,14 @@
+{ 
+  "expo": {
+   "appKey": "animated3D",
+
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    }
+  },
+
+  "name": "animated3D",
+  "displayName": "animated3D"
+}
